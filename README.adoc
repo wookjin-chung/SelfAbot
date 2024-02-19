@@ -1,0 +1,30 @@
+:repository-owner: wookjin-chung
+:repository-name: SelfAbot
+
+This library is a treasure trove of information, 
+offering a range of materials from beginner-friendly introductions 
+to the basics of Arduino C & C++ programming, to more advanced guides 
+on robot assembly, sensor integration, and algorithm implementation. 
+It's designed to provide a structured learning path, empowering users 
+to build and program their own robots with increasing complexity and functionality.
+
+For more information about this library please visit us at https://www.fribot.com
+You can refer to the PDF document training materials provided by fribot or refer to YouTube instructions.
+
+== License ==
+
+Copyright (c) 2024 Fribot co. ltd. All rights reserved.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
