@@ -8,6 +8,28 @@ on robot assembly, sensor integration, and algorithm implementation.
 It's designed to provide a structured learning path, empowering users 
 to build and program their own robots with increasing complexity and functionality.
 
+** Installation Instructions for SelfAbot Library
+Thank you for choosing the SelfAbot library for your Arduino projects! To get started with using the SelfAbot library, please follow these simple steps to install it into your Arduino IDE:
+
+1. Download the Library: First, navigate to the SelfAbot library's GitHub repository and download the library as a ZIP file by clicking on the Code button and then selecting Download ZIP. The downloaded file will be named SelfAbot-main.zip.
+
+2. Unzip the File: Once the download is complete, locate the SelfAbot-main.zip file in your downloads folder and unzip it. You will find a folder named SelfAbot-main after extraction.
+
+3. Rename the Folder: For the Arduino IDE to recognize the library correctly, you need to rename the extracted folder from SelfAbot-main to SelfAbot.
+
+4. Re-zip the Renamed Folder: After renaming the folder to SelfAbot, you need to create a new ZIP file of the SelfAbot folder. This can be done by right-clicking on the folder and selecting Compress or using any ZIP file creation method you prefer.
+
+5. Install the Library in Arduino IDE: Open the Arduino IDE, navigate to Sketch > Include Library > Add .ZIP Library..., and select the SelfAbot.zip file you've just created. The IDE will install the library, and it will be ready to use in your projects.
+
+6. Verify Installation: To verify that the library has been installed correctly, open the Arduino IDE, go to File > Examples. You should see SelfAbot listed among the libraries. Click on it to see the available examples.
+
+** Troubleshooting
+If the Arduino IDE does not recognize the library, please ensure that you have renamed the folder to SelfAbot correctly before zipping and adding it to the IDE.
+Ensure that you're using the latest version of the Arduino IDE for compatibility.
+For further assistance or to report any issues, please open an issue in the GitHub repository or consult the Arduino community forums.
+
+Happy coding with SelfAbot!
+
 For more information about this library please visit us at https://www.fribot.com
 You can refer to the PDF document training materials provided by fribot or refer to YouTube instructions.
 
