@@ -10,6 +10,8 @@ to build and program their own robots with increasing complexity and functionali
 
 For a detailed guide on how to use the 'SelfAbot' library with Arduino, including setup instructions, example projects, and troubleshooting tips, please visit our comprehensive documentation available at 'C++ Coding Adventure for Arduino Robot'( https://www.fribot.com/board/view?id=community_guide&seq=193 ). This PDF resource provides step-by-step instructions to help you get started and make the most out of your 'SelfAbot' experience.
 
+If you need more detailed information about the 'SelfAbot' library, or if you want to make modifications or add features, try asking GPTs for assistance. The address for GPTs is ( https://chat.openai.com/g/g-eD99s1qbU-codingrobot-abot ).
+
 ** Installation Instructions for SelfAbot Library
 Thank you for choosing the SelfAbot library for your Arduino projects! To get started with using the SelfAbot library, please follow these simple steps to install it into your Arduino IDE:
 
